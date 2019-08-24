@@ -1,0 +1,3 @@
+C:/Users/ALONSO/CLionProjects/Tarea_Figuras/cmake-build-debug/CMakeFiles/Tarea_Figuras.dir
+C:/Users/ALONSO/CLionProjects/Tarea_Figuras/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ALONSO/CLionProjects/Tarea_Figuras/cmake-build-debug/CMakeFiles/rebuild_cache.dir
